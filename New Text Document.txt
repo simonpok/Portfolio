@@ -1,0 +1,408 @@
+	<!--skills start -->
+		<section id="skills" class="skills">
+				<div class="skill-content">
+					<div class="section-heading text-center">
+						<h2>PROFESSIONAL SKILLS</h2>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 col-sm-12">
+								<div class="single-skill-content">
+									<div class="barWrapper">
+										<span class="progressText">INDUSTIRAL CUMMINICATION</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+													  
+												</div>
+											</div>
+											<h3>90%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">CONTENT CREATOR</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>85%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText"> PROFESSIONAL NEGOTIATION AND NETWORKING</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>90%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="single-skill-content">
+									<div class="barWrapper">
+										<span class="progressText">SOCIAL MEDIA ANALYST</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+												<div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="10" aria-valuemax="100" style="">
+													
+												</div>
+											</div>
+											<h3>90%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">BUSINESS ANALYST</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="10" aria-valuemax="100" style="">
+												    
+											   </div>
+											</div>
+											<h3>85%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+									<div class="barWrapper">
+										<span class="progressText">INFLUENCER</span>
+										<div class="single-progress-txt">
+											<div class="progress ">
+											   <div class="progress-bar" role="progressbar" aria-valuenow="97" aria-valuemin="10" aria-valuemax="100" style="">
+												   
+											   </div>
+											</div>
+											<h3>97%</h3>	
+										</div>
+									</div><!-- /.barWrapper -->
+								</div>
+							</div>
+						</div><!-- /.row -->
+					</div>	<!-- /.container -->		
+				</div><!-- /.skill-content-->
+
+		</section><!--/.skills-->
+		<!--skills end -->
+
+		//This is a experience, partners partners
+
+		<!--achievements start -->
+		<section id="achievements" class="achievements">
+			<div class="section-heading text-center">
+				<h2>EXPERIENCE</h2>
+			</div>
+			<div class="container">
+				<div class="achievements-content">
+						<div class="main-timeline">
+							<ul>
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="achievements-time text-right">
+													<h2>THAMES</h2>
+													<!-- <h3>SLC certification</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5">
+												<div class="timeline">
+													<div class="timeline-content">
+														<h4 class="title">
+															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+															Business Analyst
+														</h4>
+														<!-- <h5>Bhaktapir, Nepal</h5> -->
+														<!-- <p class="description">
+															Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero, ratione. Veritatis quibusdam eligendi, harum possimus sit sunt aut deserunt dolorum repellat facilis beatae, impedit quos? Repellat alias doloremque perferendis excepturi.
+														</p> -->
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-offset-1 col-md-5 achievements-time-responsive">
+												<div class="achievements-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														UPTRENDlY 
+													</h2>
+													<!-- <h3>Inter Basketball cup</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+											<div class="col-md-5">
+												<div class="timeline">
+													<div class="timeline-content text-right">
+														<h4 class="title">
+															Instagram / Tiktok
+														</h4>
+														<!-- <h5>Lalitpur, Nepal</h5>
+														<p class="description">
+															Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, tempora laborum necessitatibus laboriosam saepe omnis cupiditate, consectetur nesciunt facilis repellendus cum aperiam laudantium voluptas fugit dicta in quidem quisquam et!
+														</p> -->
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5 achievements-time-main">
+												<div class="achievements-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														UP TRENDY 
+													</h2>
+													<!-- <h3>Inter Basketball cup</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-5">
+												<div class="achievements-time text-right">
+													<h2>Alpha Beta</h2>
+													<!-- <h3>HSEB Certification</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5">
+												<div class="timeline">
+													<div class="timeline-content">
+														<h4 class="title">
+															<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+															Counceling
+														</h4>
+														<!-- <h5>Kathmandu, Nepal</h5>
+														<p class="description">
+															Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque repellendus velit commodi. Nihil delectus ducimus, reiciendis ex similique excepturi quidem voluptatibus expedita. Suscipit cupiditate repellendus dolores adipisci sunt reprehenderit nulla.
+														</p> -->
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+								<li>
+									<div class="single-timeline-box fix">
+										<div class="row">
+											<div class="col-md-offset-1 col-md-5 achievements-time-responsive">
+												<div class="achievements-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														ARTIST
+													</h2>
+													<!-- <h3>Student of ...</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+											<div class="col-md-5">
+												<div class="timeline">
+													<div class="timeline-content text-right">
+														<h4 class="title">
+															Modeling
+														</h4>
+														<!-- <h5>Kathmandu, Nepal</h5>
+														<p class="description">
+															Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sequi dignissimos animi qui placeat laudantium ipsa quos excepturi distinctio odio provident sunt adipisci, ab rerum minus quia consequuntur rem? Minima, provident.
+														</p> -->
+													</div><!--/.timeline-content-->
+												</div><!--/.timeline-->
+											</div><!--/.col-->
+											<div class="col-md-offset-1 col-md-5 achievements-time-main">
+												<div class="achievements-time">
+													<h2>
+														<span><i class="fa fa-circle" aria-hidden="true"></i></span>
+														ARTIST
+													</h2>
+													<!-- <h3>Student of ...</h3> -->
+												</div><!--/.achievements-time-->
+											</div><!--/.col-->
+										</div>
+									</div><!--/.single-timeline-box-->
+								</li>
+
+							</ul>
+						</div><!--.main-timeline-->
+					</div><!--.achievements-content-->
+			</div>
+
+		</section><!--/.achievements-->
+		<!--achievements end -->
+
+		<!--hobbies start -->
+		<!-- <section id="hobbies" class="hobbies">
+			<div class="hobbies-details">
+				<div class="section-heading text-center">
+					<h2>hobbies</h2>
+				</div>
+				<div class="container">
+					<div class="hobbies-content">
+						<div class="row">
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile profile-no-border">
+									<div class="profile-txt">
+										<a href=""><i class="flaticon-github-logo"></i></a>
+										<div class="profile-icon-name">github</div>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<a href=""><i class="flaticon-github-logo"></i></a>
+											<div class="profile-icon-name">github</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="profile-border"></div>
+						<div class="row">
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-3">
+								<div class="single-profile">
+									<div class="profile-txt">
+										<a href="">Basketball</a>
+									</div>
+									<div class="single-profile-overlay">
+										<div class="profile-txt">
+											<img src="assets/images/hobbies/basketball.jpeg" alt="brand-image" />
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</section> -->
+		<!--hobbies end -->
+
+		<!--alumni start -->
+		<section id="alumni" class="alumni">
+			<div class="section-heading text-center">
+				<h2>I have worked with</h2>
+			</div>
+			<div class="alumni-area">
+				<div class="container">
+					<div class="owl-carousel owl-theme" id="client">
+						<div class="item">
+							<a href="https://thamescollege.edu.np/" target="_blank">
+								<img src="assets/images/clients/thames.png" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<div class="item">
+							<a href="https://www.alfabetaedu.com/" target="_blank">
+								<img src="assets/images/clients/alphabeta.png" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<div class="item">
+							<a href="https://uptrendly.com/" target="_blank">
+								<img src="assets/images/clients/uptrendly.jpeg" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<div class="item">
+							<a href="https://tsarmoire.com.np/" target="_blank">
+								<img src="assets/images/clients/tsamoire.png" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<div class="item">
+							<a href="https://www.ekbana.com/" target="_blank">
+								<img src="assets/images/clients/ekbana.png" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<div class="item">
+							<a href="https://impacthub.net/" target="_blank">
+								<img src="assets/images/clients/impacthub.png" alt="brand-image" />
+							</a>
+						</div><!--/.item-->
+						<!-- <div class="item" style="background: black;">
+							<a href="#" target="_blank">
+								<img src="assets/images/clients/Core-Walkers-Logo.png" alt="brand-image" />
+							</a>
+						</div> -->
+						<!--/.item-->
+					</div><!--/.owl-carousel-->
+				</div><!--/.container-->
+			</div><!--/.alumni-area-->
+
+		</section><!--/.alumni-->
+
+		</section><!--/.alumni-->
+		<!--alumni end -->
